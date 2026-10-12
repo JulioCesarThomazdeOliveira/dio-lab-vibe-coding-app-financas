@@ -35,3 +35,17 @@ Requisitos:
 3. Dashboard simples exibindo saldo, gráficos essenciais e metas de poupança.
 4. Interface moderna, limpa e amigável.
 Gere a estrutura da tela principal e o fluxo do utilizador.
+---
+
+## 🧠 Reflexão sobre o Processo (Vibe Coding)
+
+- **O que funcionou:** A agilidade em transformar uma ideia inicial em um conceito estruturado e pronto para execução em poucos minutos utilizando prompts claros.
+- **Desafios e ajustes:** Manter o foco da IA em funcionalidades essenciais de um MVP, evitando sugestões excessivamente complexas logo na primeira versão.
+- **Aprendizado:** O método de *Vibe Coding* demonstra que o sucesso do projeto depende de saber formular o problema e instruir a inteligência artificial com diretrizes claras e objetivas.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+- **Microsoft Copilot / ChatGPT**
+- **Lovable.dev**
+- **GitHub & Markdown**
